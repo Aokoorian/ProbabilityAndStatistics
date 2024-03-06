@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=StatsLibrary
+comment1.params=mean
+comment1.target=double\ calculateMean(double[])
+comment2.params=numbers
+comment2.target=double\ calculateMedian(double[])
+comment3.params=numbers
+comment3.target=double\ calculateStandardDeviation(double[])
+comment4.params=numbers
+comment4.target=double\ calculateVariance(double[])
+numComments=5
